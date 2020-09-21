@@ -1,7 +1,7 @@
 ﻿
 
 
-# if (test-connection 'NGSDWK912M42396' -count 1) { write-host "connectable" }
+# if (test-connection 'computername' -count 1) { write-host "connectable" }
 
 function fix-boothole {
 

@@ -117,5 +117,3 @@ function fix-boothole {
     END{}
 
 }
-
-# fix-boothole NGSDWK210M42408
